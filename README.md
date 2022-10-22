@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmo-jerome&label=Profile%20views&color=0e75b6&style=flat" alt="elmo-jerome" /> </p>
 
-- 🌱 I’m currently learning **Java and Cyber Security**
+- 🌱 I’m currently learning **Java, C# and Cyber Security**
 
 - 💬 Ask me about **anything...**
 
