@@ -1,6 +1,6 @@
 ![Header](./Header.png)
 <h1 align="center">Hi 👋, I'm Elmo Jerome</h1>
-<h3 align="center">A Fresh Graduate Computer Engineer</h3>
+<h3 align="center">A Computer Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmo-jerome&label=Profile%20views&color=0e75b6&style=flat" alt="elmo-jerome" /> </p>
 
